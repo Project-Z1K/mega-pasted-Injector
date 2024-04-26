@@ -1,10 +1,4 @@
-# Payson Injector (EAC/BE)
-
-This is a simple injector you can use for EAC/BE protected games.
-
-This was designed for fortnite
-
-I dont really know if this thing works or not
+# MEGA PASTED INJ NO WORK 20 STARTS AND I MAKE IT WORK BB DADDY
 
 # Credits
 
